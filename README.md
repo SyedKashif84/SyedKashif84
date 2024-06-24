@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SyedKashif84
 - 👀 I’m interested in Data Analytics
-- 🌱 I’m currently learning Data Sciencs
+- 🌱 I’m currently learning Data Sciences
 - 💞️ I’m looking to collaborate on Data Analytical Projects
 - 📫 Reach me @ kashifharoon8@gmail.com
 -
